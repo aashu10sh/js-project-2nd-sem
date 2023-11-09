@@ -1,0 +1,17 @@
+.main-div {
+  background-color: rgb(239, 184, 184);
+  /* padding: 30px; */
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
+.website-link {
+  padding: 20px;
+  text-align: left !important;
+}
+.small-class {
+  display: flex;
+  place-content: space-between;
+}
+.delete-button {
+  margin-bottom: 10px;
+}
